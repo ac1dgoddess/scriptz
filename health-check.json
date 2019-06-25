@@ -1,0 +1,12 @@
+{
+  "Port": 443,
+  "Type": "HTTPS",
+  "ResourcePath": "/path/to/check",
+  "FullyQualifiedDomainName": "test",
+  "RequestInterval": 30,
+  "FailureThreshold": 3,
+  "MeasureLatency": false,
+  "Inverted": false,
+  "EnableSNI": true
+}
+
